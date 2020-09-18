@@ -23,7 +23,7 @@
 ## Table of Contents
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* Learning Outcomes
+* [Learning Outcomes](#learning-outcomes)
 * [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
