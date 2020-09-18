@@ -32,8 +32,8 @@
 <img src="images/clima.gif" width="250" />
 
 ### Built With
-* [OpenWeatherAPI][https://openweathermap.org/api]
-* [CoreLocation][https://developer.apple.com/documentation/corelocation/]
+* [OpenWeatherAPI](https://openweathermap.org/api)
+* [CoreLocation](https://developer.apple.com/documentation/corelocation/)
 
 <!-- Learning Outcomes -->
 ## Learning Outcomes
